@@ -1,0 +1,6 @@
+# Editor
+*.swp
+
+# JavaScript
+node_modules/
+yarn-error.log
